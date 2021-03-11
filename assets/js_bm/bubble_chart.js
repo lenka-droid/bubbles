@@ -675,7 +675,7 @@ function moveToAbandon(alpha) {
 
   var fillColor = d3.scale.ordinal()
     .domain(['1','2','3', '4','5','6'])
-    .range(['#F7CAD0', '#ADE8F4', '#48CAE4', '#0096C7','#023E8A','#03045E']);
+    .range(['#5C1C00', '#CBFFB8', '#86B979','#64975A','#41743A','#1F511B']);
 
   /* Tooltip-Funktion*/
   function showDetail(d) {

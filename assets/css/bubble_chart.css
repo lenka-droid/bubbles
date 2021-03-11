@@ -22,10 +22,15 @@ a, a:visited, a:active {
 height: 70px;
 }
 
-.greytext {
-    color:#7b7b7b;
+.grentext {
+    color:#0C2306;
 }
-
+.greentext {
+    color:#1F511B;
+}
+.grntext {
+    color:#CBFFB8;
+}
 .vorgehen_text {
      font-size: 15px;
 }
@@ -48,7 +53,7 @@ height: 70px;
 }
 
 .button.active {
-  background: #CD003C;
+  background: #A9DC99;
   color: #fff;
 }
 
